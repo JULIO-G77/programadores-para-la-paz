@@ -1,0 +1,21 @@
+ preguntas-semana3.txt
+
+Pregunta 1:
+Respuesta: B
+
+Git es un sistema de control de versiones que permite registrar y controlar los cambios realizados en proyectos de software.
+
+Pregunta 2:
+Respuesta: B
+
+Un repositorio sirve para almacenar, organizar y controlar los archivos y cambios de un proyecto de manera ordenada.
+
+Pregunta 3:
+Respuesta: B
+
+El comando git add . agrega los archivos al área de preparación para posteriormente registrar los cambios realizados.
+
+Pregunta 4:
+Respuesta: A
+
+El comando git commit guarda un registro de los cambios realizados dentro del proyecto.

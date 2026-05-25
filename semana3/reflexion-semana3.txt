@@ -1,0 +1,5 @@
+ reflexion-semana3.txt
+
+Considero que mantener un registro de cambios en los proyectos de software es muy importante porque permite organizar mejor el trabajo realizado y llevar un control sobre cada modificación hecha en el proyecto. Herramientas como Git ayudan a guardar versiones del trabajo y facilitan recuperar información en caso de errores o problemas.
+
+Además, el control de versiones permite que varias personas trabajen en un mismo proyecto sin perder información ni sobrescribir cambios importantes. También ayuda a mejorar la trazabilidad del desarrollo, ya que cada cambio queda registrado con fecha y descripción. Pienso que Git y GitHub son herramientas fundamentales para cualquier desarrollador porque facilitan el trabajo colaborativo, la organización y la seguridad de los proyectos.
