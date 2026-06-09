@@ -1,0 +1,20 @@
+Prueba realizada en la ruta:
+
+POST http://localhost:3000/registro
+
+JSON enviado:
+
+{
+"nombre": "Maria",
+"mensaje": "Hola comunidad"
+}
+
+Respuesta obtenida del servidor:
+
+{
+"estado": "Datos recibidos",
+"nombre": "Maria",
+"mensaje": "Hola comunidad"
+}
+
+Esta respuesta confirma que el servidor recibió correctamente la información enviada mediante una petición POST. Los datos fueron procesados usando req.body y devueltos al cliente en formato JSON.
